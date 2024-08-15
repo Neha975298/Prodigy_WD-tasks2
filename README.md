@@ -1,3 +1,3 @@
 # Prodigy_WD-tasks2
 
-Tic-Tac-Teo WEB APPLICATION
+Tic-Tac-Toe WEB APPLICATION
